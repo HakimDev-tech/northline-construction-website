@@ -1,30 +1,25 @@
 # Northline Construction
 
-**A stronger digital presence for construction professionals.**
+A considered digital presence for a fictional independent residential builder on British Columbia's North Shore.
 
-Northline Construction is a fictional construction company created to demonstrate how a modern business website can communicate credibility, showcase completed work, explain services, and generate qualified enquiries.
+## Direction
 
-The project focuses on a common business problem: construction companies often have strong technical capabilities but lack a professional digital presence that communicates their value effectively.
+An editorial architecture journal rather than a conventional contractor template: warm mineral paper, charcoal typography, restrained olive, a high-contrast serif, generous negative space, asymmetrical project sequencing, and documentary residential photography. The art direction is intentionally quiet; material, proportion and photography do the work.
 
-The website transforms that presence into a structured digital experience built around trust, clarity, and conversion.
+## Stack
 
-### Core objectives
+- Next.js App Router / React / TypeScript
+- Custom responsive CSS design system
+- Semantic sections, metadata and Open Graph basics
+- Real photographic imagery from Unsplash (not generated abstract backgrounds)
 
-- Establish a professional and credible brand identity.
-- Present construction services in a clear and understandable way.
-- Showcase projects through structured visual case studies.
-- Explain the company's working process.
-- Encourage potential clients to submit project enquiries.
-- Deliver a consistent experience across mobile, tablet, and desktop.
+## Run locally
 
-### Target audience
+```bash
+npm install
+npm run dev
+```
 
-- Residential property owners.
-- Commercial property developers.
-- Real estate investors.
-- Architects and engineering firms.
-- Businesses looking for construction contractors.
+## Concept disclosure
 
-### Positioning
-
-Reliable construction. Clear communication. Built to last.
+Northline Construction and all project descriptions are fictional portfolio material. No client relationship, completed contract, or construction outcome is represented as real.
